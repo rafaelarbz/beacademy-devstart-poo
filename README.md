@@ -1,5 +1,5 @@
-## PHP - POO
-Este repositório tem o propósito de armazenar exercícios referentes a Sprint 6 de PHP Orientado a Objetos.
+## POO
+Este repositório tem o propósito de armazenar exercícios referentes a Sprint 6 de Orientação a Objetos.
 
 ## Lista de Exercícios
 
